@@ -1,0 +1,2 @@
+# gconf
+Go config center
